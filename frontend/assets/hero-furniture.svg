@@ -1,0 +1,23 @@
+<svg viewBox="0 0 640 520" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Taller de manufactura de muebles NOGAL">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#3a2a1e"/><stop offset="1" stop-color="#6d4a32"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="520" fill="url(#bg)"/>
+  <g stroke="#8a5a3b" stroke-width="2" fill="none" opacity="0.5">
+    <path d="M0 90 C 160 80, 320 100, 640 88"/>
+    <path d="M0 150 C 160 140, 320 160, 640 148"/>
+    <path d="M0 210 C 160 200, 320 220, 640 208"/>
+  </g>
+  <!-- mesa terminada -->
+  <g transform="translate(320 300)" stroke="#FBF7F0" stroke-width="7" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M-150 -40 h300"/>
+    <path d="M-150 -40 v-16 h300 v16" fill="#D8A24A" fill-opacity="0.25"/>
+    <path d="M-120 -40 v150 M120 -40 v150 M-80 -40 v90 M80 -40 v90"/>
+  </g>
+  <!-- viruta / detalle ocre -->
+  <g fill="#D8A24A" opacity="0.85">
+    <circle cx="120" cy="430" r="8"/><circle cx="150" cy="440" r="5"/><circle cx="500" cy="120" r="6"/>
+  </g>
+</svg>

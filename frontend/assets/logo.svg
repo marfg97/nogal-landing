@@ -1,0 +1,9 @@
+<svg viewBox="0 0 34 34" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="NOGAL">
+  <rect width="34" height="34" rx="9" fill="#6d4a32"/>
+  <g stroke="#D8A24A" stroke-width="2" stroke-linecap="round" opacity="0.9">
+    <path d="M7 12 C 14 10, 20 14, 27 12"/>
+    <path d="M7 17 C 14 15, 20 19, 27 17"/>
+    <path d="M7 22 C 14 20, 20 24, 27 22"/>
+  </g>
+  <ellipse cx="17" cy="17" rx="3.4" ry="5" fill="none" stroke="#FBF7F0" stroke-width="1.8"/>
+</svg>

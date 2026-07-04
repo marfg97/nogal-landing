@@ -1,0 +1,11 @@
+# Secretos y entorno
+.env
+*.env
+!*.env.example
+backend/**/.env
+
+# Artefactos de build/deploy
+*.zip
+node_modules/
+.DS_Store
+Thumbs.db
